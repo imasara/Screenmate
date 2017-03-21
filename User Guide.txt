@@ -1,0 +1,23 @@
+--User Guide--
+
+--Running
+Requires JRE8 or JDK8 (or higher) to run.
+Link: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+(Link last checked on 11-10-2016)
+
+Doubleclick the .bat file to run the program.
+
+--Features
+Customisable Screenmate; follows your cursor.
+Clicking middle mouse button on the sprite will exit the program.
+Sounds, screenmate plays the sounds given in the sounds folder
+under specific circumstances
+
+--Customisation
+The Screenmate requires 21 sprites (png files 64x64) to animate, these must be 
+present in the 'sprites' folder.
+The Screenmate takes 2 sound files (.wav files).
+
+For all custom files, a naming convention guide is present in the appropriate folder. 
+
+
